@@ -1,0 +1,17 @@
+# ============================================
+# Flash Arb Bot - Environment Variables
+# ============================================
+# Bu faylı .env olaraq kopyala: cp .env.example .env
+# Sonra dəyərləri dəyişdir
+
+# Base Chain RPC URL
+# Pulsuz: https://mainnet.base.org
+# Sürətli (Alchemy): https://base-mainnet.g.alchemy.com/v2/YOUR_KEY
+RPC_URL=https://mainnet.base.org
+
+# Deploy etdiyin FlashArbBot smart contract ünvanı
+ARB_CONTRACT=0xYOUR_CONTRACT_ADDRESS_HERE
+
+# Cüzdan Private Key (0x ilə başlayır)
+# ⚠️ HEÇ VAXT PAYLAŞMA! Yalnız bu bot üçün yeni cüzdan istifadə et!
+PRIVATE_KEY=0xYOUR_PRIVATE_KEY_HERE

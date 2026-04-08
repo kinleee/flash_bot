@@ -1,0 +1,7 @@
+.env
+node_modules/
+cache/
+artifacts/
+arb_results.json
+error.log
+*.log

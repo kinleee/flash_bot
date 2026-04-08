@@ -1,0 +1,22 @@
+{
+  "name": "flash_arb_bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^5.6.1",
+    "dotenv": "^17.4.1",
+    "ethers": "^6.16.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.22.0"
+  }
+}
